@@ -5,6 +5,6 @@ Hackathon-Android-Cuna-Project was written at the UWW Hackathon. The code was fa
 
 Our Team:  
 Steven Horvatin<p>
-Jared Hynum
-Will Jacobs
-Owen Kirkeby.                    
+Jared Hynum<p>
+Will Jacobs<p>
+Owen Kirkeby<p>                  
