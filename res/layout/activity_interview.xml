@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CreateInterviewerActivity" >
+
+    <com.hackathon.cuna.customviews.FormView
+        android:id="@+id/formView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.hackathon.cuna.customviews.FormView>
+
+    <com.hackathon.cuna.customviews.FormView
+        android:id="@+id/formView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.hackathon.cuna.customviews.FormView>
+
+    <com.hackathon.cuna.customviews.FormView
+        android:id="@+id/formView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.hackathon.cuna.customviews.FormView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/textView10" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+</LinearLayout>

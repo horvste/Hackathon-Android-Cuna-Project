@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HackathonKunaProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fName">First Name =</string>
+    <string name="mName">Middle Name =</string>
+    <string name="lName">Last Name =</string>
+    <string name="posName">Position =</string>
+    <string name="createInter">Create New Interview</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_create_position">CreatePositionActivity</string>
+    <string name="title_activity_canidate_display">CanidateDisplay</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
